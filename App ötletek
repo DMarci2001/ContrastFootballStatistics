@@ -1,0 +1,39 @@
+Egyéb ötletek:
+
+A modellt, és így az appot akár bővíteni más sportágakra is, pl. amerikai focira, kosárlabdára, kézilandára, stb.
+
+Funkciók:
+
+Játékosok összes statisztikájának szezononkénti összehasonlítása a FPL app mintájára
+-liga, klub, poziíció filterek az összes játékos listázásánál
+érték, forma, gólok, más a RapidAPI-ban található játékos statisztikák alapján sorbarendezhetőség
+-egy játékosra rákattintva annak vizális felületen, fejléccel, arcképpel, az összes adatának(kezdések, játszott percek, gólok, sikeres passzok, kaput eltaláló lövések, asszisztok, várható gólok, várható asszisztok, sárgák, pirosak, öngólok, stb.) kategorizált feltüntetése
+elmúlt, és elkövetkező meccseinek mutatása, ezen meccsekre rákattintva átvezetés a másik funkcióba, a csapatok statisztikáiba
+
+
+-vizuális felület, játékoskereső rubrikák javaslatokkal, szezonkereső legördülő menü, liga, klub és pozíció filterek legördülő menüvel
+az összehasonlításnál kategóriák(pl. általános, támadás, védekezés, csapatmunka, meccsek, magatartás stb.), aki jobb annak a számát highlightolni
+oszlopos összehasonlítás vizuális felülettel
+-különböző adatok alapján(pl. gólok, sikeres passzok száma, stb.) növekvő, csökkenő sorba listázható játékosok
+
+Játékosok statisztikái szezononként külön-külön
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Csapatok statisztikái(pl. Gólok, gól nélküli meccsek, lövések, kaput eltaláló lövések, sikeres passzok, szerelések, védések, lesek, felszabadítások, öngólok) ligánként, szezononként, listavezetőket kezdőlapon mutatni mindegyik kategóriában
+meccsek odds-összehasonlítása a FootyStats alkalmazás mintájára, csak átláthatóan:
+-Elsődlegesen az EPL, a La Liga, a Bundesliga, a Serie A, és a Ligue 1 statisztikáit vizsgálni
+ezeket kiválasztva megjeleníteni az adott, és az elkövetkezendő pár játékhét összes meccsét
+
+Statisztikák:
+-Mindkét csapat szerez gólt(BTTS), félidőnként is + BTTS & Győzelem, BTTS & Vereség, BTTS & Döntetlen
+-Gólok alatt/felett, pl. 1.5, 2.5, félidőnként is
+-Várható gólok, félidőnként is
+-Sárgalap, piroslap odds-ok, gyakoriságok, akár bírónként is
+-Gólszerzés odds-jai mindkét csapatnál, vizuális megjelenítés, score-o-meterrel
+- Ki fog először gólt szerezni
+- Kaput eltaláló lövések száma
+Lövések/meccs
+- Csapatok formája elmúlt meccseken
+-Odds-ok és statisztikák párosan oszlopban mutatása
+
+===> A találkozók várható eredményének elemzésénél végigmenni az összes ponton mindkét csapat esetében, összehasonlítani, átlagolni, előrejelzni
+Oszlopos, adatrácsos felépítésben, színkódolva a különböző százalékokat, oddsokat, az esélyesebb csapatot minden statisztikánál vastag karakterekkel feltüntetni

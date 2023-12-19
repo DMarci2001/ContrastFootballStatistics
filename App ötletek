@@ -4,7 +4,7 @@ A modellt, és így az appot akár bővíteni más sportágakra is, pl. amerikai
 
 Funkciók:
 
-Játékosok összes statisztikájának szezononkénti összehasonlítása a FPL app mintájára
+Játékosok összes statisztikájának szezononkénti összehasonlítása a FPL app mintájára, Játékosok statisztikái szezononként külön-külön:
 -liga, klub, poziíció filterek az összes játékos listázásánál
 érték, forma, gólok, más a RapidAPI-ban található játékos statisztikák alapján sorbarendezhetőség
 -egy játékosra rákattintva annak vizális felületen, fejléccel, arcképpel, az összes adatának(kezdések, játszott percek, gólok, sikeres passzok, kaput eltaláló lövések, asszisztok, várható gólok, várható asszisztok, sárgák, pirosak, öngólok, stb.) kategorizált feltüntetése
@@ -16,7 +16,6 @@ az összehasonlításnál kategóriák(pl. általános, támadás, védekezés, 
 oszlopos összehasonlítás vizuális felülettel
 -különböző adatok alapján(pl. gólok, sikeres passzok száma, stb.) növekvő, csökkenő sorba listázható játékosok
 
-Játékosok statisztikái szezononként külön-külön
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Csapatok statisztikái(pl. Gólok, gól nélküli meccsek, lövések, kaput eltaláló lövések, sikeres passzok, szerelések, védések, lesek, felszabadítások, öngólok) ligánként, szezononként, listavezetőket kezdőlapon mutatni mindegyik kategóriában
 meccsek odds-összehasonlítása a FootyStats alkalmazás mintájára, csak átláthatóan:

@@ -20,9 +20,9 @@ oszlopos összehasonlítás vizuális felülettel
 Csapatok statisztikái(pl. Gólok, gól nélküli meccsek, lövések, kaput eltaláló lövések, sikeres passzok, szerelések, védések, lesek, felszabadítások, öngólok) ligánként, szezononként, listavezetőket kezdőlapon mutatni mindegyik kategóriában
 meccsek odds-összehasonlítása a FootyStats alkalmazás mintájára, csak átláthatóan:
 -Elsődlegesen az EPL, a La Liga, a Bundesliga, a Serie A, és a Ligue 1 statisztikáit vizsgálni
-ezeket kiválasztva megjeleníteni az adott, és az elkövetkezendő pár játékhét összes meccsét
+ezeket kiválasztva megjeleníteni az adott, és az elkövetkezendő pár játékhét összes meccsét, ezek legyenek kattinthatóak ===>
 
-Statisztikák:
+ ===> Megjelennek a statisztikák:
 -Mindkét csapat szerez gólt(BTTS), félidőnként is + BTTS & Győzelem, BTTS & Vereség, BTTS & Döntetlen
 -Gólok alatt/felett, pl. 1.5, 2.5, félidőnként is
 -Várható gólok, félidőnként is

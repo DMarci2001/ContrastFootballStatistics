@@ -27,7 +27,7 @@ Familiarize yourself with version control systems like Git, which helps manage y
 Review the documentation of the external API you intend to use. Understand their endpoints, authentication methods, request formats, and response structures.
 
 Learning Resources:
-Online Courses and Tutorials: Platforms like Udemy, Coursera, freeCodeCamp, and Codecademy offer beginner-friendly courses.
+Online Courses and Tutorials: Platforms like Udemy, Coursera, freeCodeCamp(YouTube Channel too), and Codecademy offer beginner-friendly courses.
 Official Documentation: Refer to official documentation for your chosen language and framework.
 YouTube and Blogs: Watch tutorials and read blogs dedicated to backend development.
 Practical Steps:

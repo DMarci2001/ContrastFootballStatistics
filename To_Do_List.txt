@@ -37,3 +37,10 @@ Learn by Doing: Practice regularly, and don't shy away from making mistakes. The
 Community and Support:
 Join developer communities on platforms like Stack Overflow, GitHub, Reddit, and Discord. Engage with others, ask questions, and share your knowledge.
 Remember, learning to build a functional backend server takes time and practice. Start small, be patient with yourself, and gradually work your way up to more complex projects.
+
+
+Egyéb Teendők:
+
+Linux shell tutorialokat nézni
+
+Imperatív programozás, Prog. alap, Számrend. diasorait átnézni, tanulni
